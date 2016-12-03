@@ -1,0 +1,260 @@
+RES    MATRIX,12,5
+
+MEN    STORAGE 2
+
+row_index EQU 1
+WORK_BENCHES   EQU 32
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 2
+WORK_BENCHES     EQU 33
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 3
+WORK_BENCHES     EQU 34
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+MEN    STORAGE 3
+
+row_index EQU 4
+WORK_BENCHES   EQU 32
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 5
+WORK_BENCHES     EQU 33
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 6
+WORK_BENCHES     EQU 34
+
+      RMULT 407
+  col_index EQU 1
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 417
+  col_index     EQU 2
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 427
+  col_index     EQU 3
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 437
+  col_index     EQU 4
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 447
+  col_index     EQU 5
+      START 1,NP
+      CLEAR OFF
+
+MEN    STORAGE 4
+
+row_index EQU 7
+WORK_BENCHES   EQU 32
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 8
+WORK_BENCHES     EQU 33
+
+    RMULT 407
+col_index EQU 1
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 417
+col_index     EQU 2
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 427
+col_index     EQU 3
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 437
+col_index     EQU 4
+    START 1,NP
+    CLEAR OFF
+
+    RMULT 447
+col_index     EQU 5
+    START 1,NP
+    CLEAR OFF
+
+row_index EQU 9
+WORK_BENCHES     EQU 34
+
+      RMULT 407
+  col_index EQU 1
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 417
+  col_index     EQU 2
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 427
+  col_index     EQU 3
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 437
+  col_index     EQU 4
+      START 1,NP
+      CLEAR OFF
+
+      RMULT 447
+  col_index     EQU 5
+      START 1,NP
+      CLEAR OFF
+            
